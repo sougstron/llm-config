@@ -1,0 +1,23 @@
+{
+  "address": "https://huggingface.co/VlSav/Vikhr-Nemo-12B-Instruct-R-21-09-24-Q4_K_M-GGUF/blob/main/vikhr-nemo-12b-instruct-r-21-09-24-q4_k_m.gguf",
+  "chat": "https://huggingface.co/VlSav/Vikhr-Nemo-12B-Instruct-R-21-09-24-Q4_K_M-GGUF/blob/main/vikhr-nemo-12b-instruct-r-21-09-24-q4_k_m.gguf",
+  "chat_ctx_size": "8192",
+  "chat_batch_size": "128",
+  "chat_name": "Vikhr-Nemo-12B-Instruct",
+  "description": "Vikhr-Nemo-12B-Instruct",
+  "domain": "us.gaianet.network",
+  "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",
+  "embedding_ctx_size": "8192",
+  "embedding_batch_size": "8192",
+  "embedding_name": "nomic-embed-text-v1.5.f16",
+  "llamaedge_port": "8080",
+  "prompt_template": "Vihr-nemo-chat",
+  "rag_prompt": "Use the following pieces of context to answer the user's question.\n----------------\n",
+  "reverse_prompt": "",
+  "snapshot": "",
+  "system_prompt": "You are a helpful, respectful, and honest assistant. Think twice and doublecheck yourself",
+  "rag_policy": "system-message",
+  "embedding_collection_name": "default",
+  "qdrant_limit": "1",
+  "qdrant_score_threshold": "0.5"
+}

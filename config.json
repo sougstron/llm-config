@@ -1,5 +1,5 @@
 {
-  "address": "https://huggingface.co/VlSav/Vikhr-Nemo-12B-Instruct-R-21-09-24-Q4_K_M-GGUF/blob/main/vikhr-nemo-12b-instruct-r-21-09-24-q4_k_m.gguf",
+  "address": "",
   "chat": "https://huggingface.co/VlSav/Vikhr-Nemo-12B-Instruct-R-21-09-24-Q4_K_M-GGUF/blob/main/vikhr-nemo-12b-instruct-r-21-09-24-q4_k_m.gguf",
   "chat_ctx_size": "8192",
   "chat_batch_size": "128",
@@ -12,7 +12,7 @@
   "embedding_name": "nomic-embed-text-v1.5.f16",
   "llamaedge_port": "8080",
   "prompt_template": "Vihr-nemo-chat",
-  "rag_prompt": "Use the following pieces of context to answer the user's question.\n----------------\n",
+  "rag_prompt": "Use the following pieces of context to answer the user's question.\nIf you don't know the answer, just say that you don't know, don't try to make up an answer.\n----------------\n",
   "reverse_prompt": "",
   "snapshot": "",
   "system_prompt": "You are a helpful, respectful, and honest assistant. Think twice and doublecheck yourself",

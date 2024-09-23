@@ -1,6 +1,6 @@
 {
   "address": "",
-  "chat": "https://huggingface.co/VlSav/Vikhr-Nemo-12B-Instruct-R-21-09-24-Q4_K_M-GGUF/blob/main/vikhr-nemo-12b-instruct-r-21-09-24-q4_k_m.gguf",
+  "chat": "https://huggingface.co/VlSav/Vikhr-Nemo-12B-Instruct-R-21-09-24-Q4_K_M-GGUF/resolve/main/vikhr-nemo-12b-instruct-r-21-09-24-q4_k_m.gguf",
   "chat_ctx_size": "8192",
   "chat_batch_size": "128",
   "chat_name": "Vikhr-Nemo-12B-Instruct",
